@@ -1,0 +1,14 @@
+#Identify external ipaddress 
+
+	curl ifconfig.me
+
+	curl ifconfig.me/ip -> IP Adress
+
+	curl ifconfig.me/host -> Remote Host
+
+	curl ifconfig.me/ua ->User Agent
+
+	curl ifconfig.me/port -> Port
+#end
+
+
