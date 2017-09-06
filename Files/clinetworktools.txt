@@ -1,0 +1,27 @@
+# Command Line network tools and command collection
+
+## Command line Network speed test tool:
+
+speedtest-cli 
+
+-Install from appropriate package manager or compile from source from GitHub
+-After install, open terminal and execute the application just by typing the
+command: speedtest-cli
+
+## Sample Result:
+Retrieving speedtest.net configuration... 
+Testing from Nobis Technology Group (108.62.19.132)... 
+Retrieving speedtest.net server list... 
+Selecting best server based on ping... 
+Hosted by Speedtest.net (Atlanta, GA) [0.87 km]: 106.928 ms 
+Testing download speed................................................................................ 
+Download: 28.62 Mbit/s 
+Testing upload speed................................................................................................ 
+Upload: 5.82 Mbit/s
+
+## Application Info for speedtest-cli
+
+-Location: https://github.com/sivel/speedtest-cli
+-Wiki: https://github.com/sivel/speedtest-cli/wiki
+-Usage Detail: https://github.com/sivel/speedtest-cli#usage
+
