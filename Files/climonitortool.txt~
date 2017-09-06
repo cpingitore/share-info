@@ -1,0 +1,25 @@
+# Command Line network tools and command collection
+
+## Command line active process monitor tool:
+-- Creators description: This is htop, an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. 
+
+Htop
+
+-Install from appropriate package manager or compile from source from GitHub
+-After install, open terminal and execute the application just by typing the
+command: htop 
+
+## Sample Result:
+- Sample output screen not reproduceable in text. see sample link
+- Link : http://hisham.hm/htop/htop-2.0.png
+
+## Application Info for Htop 
+
+-Location: https://github.com/hishamhm/htop
+-Wiki: No Wiki in GitHub - See man page for instructions - man htop 
+-Usage Detail: https://github.com/hishamhm/htop#htop
+
+## Note: 
+- No credit taken is being taken for this info. It gathered from the author of the work for new Linux desktop users recommended use.
+
+#EOF
